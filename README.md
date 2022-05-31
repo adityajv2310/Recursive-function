@@ -4,6 +4,20 @@
 To write a C# program to reverse a number using recursive function.
 
 ## Algorithm:
+### Step 1:
+Create a function for reversing.
+
+### Step 2:
+Get the number from the user.
+
+### Step 3:
+In the function find reminder of the number and multiply it by 10 and add the reverse number.
+
+### Step 4:
+Recusively call this function to get the reversed number.
+
+### Step 5:
+print the reversed number.
 
 ## Program:
 ```C#
@@ -40,4 +54,4 @@ namespace Recursive_Function
 ![Online C# Compiler - online editor - Google Chrome 28-05-2022 11_23_19 (2)](https://user-images.githubusercontent.com/75235386/170812278-df09b500-f38c-4ebc-ac06-cbae493c8897.png)
 
 ## Result:
-Thus, a C# program to reverse a number using recursive function was executed successfully.
+Thus, a C# program to reverse a number using recursive function is executed successfully.
